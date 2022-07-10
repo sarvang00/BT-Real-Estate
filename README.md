@@ -55,3 +55,5 @@ To use the application, the following command needs to be run:
 python manage.py runserver
 ```
 
+## Archive Note
+**The goal of this project has now been achieved. Since I donot plan to further the scope of this project, I am archiving it.**
